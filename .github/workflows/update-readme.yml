@@ -24,8 +24,8 @@ jobs:
         
       - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "65004690+sohaibaktar@users.noreply.github.com"
+          git config --local user.name "Sohaib Aktar Gazi"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update: Weekly learning goal rotation"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update: This week's learning goal"
           git push
