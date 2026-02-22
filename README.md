@@ -4,7 +4,7 @@
 
 ### 💻 Developer | 📱 Tech Enthusiast | 🚀 Innovation Driver
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sohaibaktar.github.io/sohaibaktar.github.oi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sohaib-aktar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-aktar-gazi-75173417a/?originalSubdomain=in)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sohaibaktargazi)
 
@@ -25,7 +25,6 @@ const sohaib = {
     currentlyLearning: "iOS development with Swift",
     lookingFor: "Leadership roles & Collaborative opportunities",
     openTo: ["Freelance Projects", "Full-time Roles", "Collaborations"],
-    location: "India 🇮🇳",
     funFact: "I love to play badminton 🏸",
     recentLaunch: "Pyapiras",
     philosophy: "Building impactful solutions, one app at a time"
@@ -82,7 +81,34 @@ const sohaib = {
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.expand.ezisales&hl=en_IN)
 
+> *Enterprise solution — developed & maintained for internal company operations*
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 Expand HR
+
+**All-in-one enterprise HR management platform**
+
+🤖 AI-Enabled Face Attendance System  
+🚪 Smart Door Attendance Integration  
+🏖️ Leave Management & Approval Workflows  
+💰 Payroll Processing & Salary Management  
+👨‍💼 Employee Lifecycle Management  
+📋 Department & Role Administration  
+
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.edominer.expandhr&pcampaignid=web_share)
+
+> *Enterprise solution — developed & maintained for internal company operations*
+
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -145,7 +171,7 @@ const sohaib = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Website-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sohaibaktar.github.io/sohaibaktar.github.oi/)
+[![Portfolio](https://img.shields.io/badge/Website-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sohaib-aktar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-aktar-gazi-75173417a/?originalSubdomain=in)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sohaibaktargazi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sohaibaktar)
