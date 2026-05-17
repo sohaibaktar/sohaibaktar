@@ -22,7 +22,7 @@ const sohaib = {
     focus: ["Mobile Development", "Backend Development", "ERP Solutions"],
     techStack: ["Flutter", "Dart", "Firebase", "Java", "Kotlin"],
     platforms: ["Android", "iOS"],
-    currentlyLearning: "AI/ML integration in mobile apps 🤖",
+    currentlyLearning: "Clean architecture & design patterns 🏗️",
     lookingFor: "Leadership roles & Collaborative opportunities",
     openTo: ["Freelance Projects", "Full-time Roles", "Collaborations"],
     funFact: "I love to play badminton 🏸",
