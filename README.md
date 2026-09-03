@@ -45,6 +45,24 @@ const sohaib = {
 <tr>
 <td width="50%">
 
+### 🧩 Block Puzzle Burst
+
+**The Most Satisfying Block Puzzle Game**
+
+🧩 Classic 8×8 grid strategy with smooth controls  
+⚡ Explosive Combo Burst system for multi-line clears  
+🏆 Daily Challenges & Streak reward system  
+📴 100% Offline play — no Wi-Fi needed  
+
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pyapiras.blockpuzzleburst)
+
+</td>
+<td width="50%">
+
 ### 🗓️ Banglar Calendar
 
 **A comprehensive Bengali calendar application**
@@ -61,27 +79,6 @@ const sohaib = {
 [![Available on IndusAppStore](https://img.shields.io/badge/IndusAppStore-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://www.indusappstore.com/apps/productivity/banglar-calendar/com.banglarcalendar.bang_cal/?page=details&id=com.banglarcalendar.bang_cal)
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.banglarcalendar.bang_cal&pcampaignid=web_share)
 
-</td>
-<td width="50%">
-
-### 💼 Expand Ezi-Sales
-
-**Enterprise sales management solution**
-
-📊 Complete Lead & Sales Tracking  
-📝 Order & Invoice Management  
-👥 Customer Relationship Management  
-🔄 ERP Integration & Real-time Sync  
-☁️ Remote Access from Anywhere  
-📈 Sales Analytics & Reporting  
-
-**Tech Stack:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.expand.ezisales&hl=en_IN)
-
-> *Enterprise solution — developed & maintained for internal company operations*
 </td>
 </tr>
 <tr>
@@ -108,7 +105,27 @@ const sohaib = {
 > *Enterprise solution — developed & maintained for internal company operations*
 
 </td>
-<td width="50%"></td>
+<td width="50%">
+
+### 💼 Expand Ezi-Sales
+
+**Enterprise sales management solution**
+
+📊 Complete Lead & Sales Tracking  
+📝 Order & Invoice Management  
+👥 Customer Relationship Management  
+🔄 ERP Integration & Real-time Sync  
+☁️ Remote Access from Anywhere  
+📈 Sales Analytics & Reporting  
+
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.expand.ezisales&hl=en_IN)
+
+> *Enterprise solution — developed & maintained for internal company operations*
+</td>
 </tr>
 </table>
 
